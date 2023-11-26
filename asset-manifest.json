@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textutils-appk)/static/css/main.ee582755.css",
-    "main.js": "/textutils-appk)/static/js/main.8e225f5a.js",
-    "static/js/787.d4aba7ab.chunk.js": "/textutils-appk)/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/textutils-appk)/index.html",
-    "main.ee582755.css.map": "/textutils-appk)/static/css/main.ee582755.css.map",
-    "main.8e225f5a.js.map": "/textutils-appk)/static/js/main.8e225f5a.js.map",
-    "787.d4aba7ab.chunk.js.map": "/textutils-appk)/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/textutils-appk/static/css/main.ee582755.css",
+    "main.js": "/textutils-appk/static/js/main.c2b4947c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/textutils-appk/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/textutils-appk/index.html",
+    "main.ee582755.css.map": "/textutils-appk/static/css/main.ee582755.css.map",
+    "main.c2b4947c.js.map": "/textutils-appk/static/js/main.c2b4947c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/textutils-appk/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee582755.css",
-    "static/js/main.8e225f5a.js"
+    "static/js/main.c2b4947c.js"
   ]
 }
