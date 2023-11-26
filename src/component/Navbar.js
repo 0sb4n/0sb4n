@@ -24,14 +24,14 @@ export default function Navbar(props) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 text-light">
               <li className="nav-item">
-                <Link className={`nav-link text-${props.mode==='light'?'dark':'light'}`}aria-current="page" to="/">
-                  {props.homeutils}</Link>
+                <a className={`nav-link text-${props.mode==='light'?'dark':'light'}`}aria-current="page" href="#">
+                  {props.homeutils}</a>
                 
               </li>
               <li className="nav-item">
-                <Link className={`nav-link text-${props.mode==='light'?'dark':'light'} `} to="/about">
+                <a className={`nav-link text-${props.mode==='light'?'dark':'light'} `} href="#">
                   about
-                </Link>
+                </a>
               </li></ul>
          
             

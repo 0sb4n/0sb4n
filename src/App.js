@@ -57,11 +57,8 @@ function App() {
         toggleMode={toggleMode}
       />
       <Alert alert={alert} />
-<Routes>
-<Route path="/" element={<TextForm showAlert={showAlert} heading="Enter The Text To Analyze" />}></Route>
-<Route path="/about" element={<About/>} />
-
-</Routes>
+      <TextForm showAlert={showAlert} heading='Enter The Text To Analyze'/>
+<About/>
       
 
       
